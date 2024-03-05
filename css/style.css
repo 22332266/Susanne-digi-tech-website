@@ -60,7 +60,7 @@ main{
 
 /* H1 uses a google font. Check out https://www.w3schools.com/howto/howto_google_fonts.asp to change - also see line 9 in your html page*/
 h1 {
-  color: #ef99f5;
+  color: #c680ff;
   font-family: 'Caesar Dressing';
   font-size: 60px;
   text-align: center
@@ -72,13 +72,13 @@ h1 {
 }
 
 h2 {
-  color: #ef99f5;
+  color: #c680ff;
   font-size: 30px;
   text-align: center;
 }
 
 p {
-  color: #ef99f5;
+  color: #c680ff;
   font-size: 14px;
   text-align: center;
 }
